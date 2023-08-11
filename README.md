@@ -11,7 +11,7 @@ A simple To-Do List application built using React, Vite, Styled Components, Reac
 
 ## Demo
 
-click here
+[Click Here](https://react-to-do-list-yashg.netlify.app/)
 
 ## Installation
 
@@ -66,7 +66,9 @@ click here
 
 ## Screenshots
 
-Include some screenshots showcasing different views and features of your app.
+![image](https://github.com/yghugardare/ReactTodoList/assets/117991996/129aec2c-b8d2-46a7-8cf3-7e31435e52e9)
+![image](https://github.com/yghugardare/ReactTodoList/assets/117991996/5cde8687-8ffa-45d8-81a7-ca34b7a204f8)
+
 
 ## Local Storage Integration
 
