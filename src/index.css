@@ -1,0 +1,25 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.dark{
+    --container-color : #252525;
+    --todo-container-color: #17181F;
+    --btn-inp-ico-color : #61dafb;
+    --border-color:#30313d;
+    --text-color: white;
+}
+.light{
+    --container-color : #DEE4E7;
+    --todo-container-color: #ccc;
+    --btn-inp-ico-color : #1A73E8;
+    --text-color: black;
+    --border-color:#30313d;
+}
+body{
+    background-color: var(--container-color);
+}
