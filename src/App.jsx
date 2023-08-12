@@ -84,7 +84,7 @@ const Container = styled.section`
   @media (max-width: 480px) {
     .modes {
       left: 90vw;
-      bottom: 95vh;
+      bottom: 85vh;
     }
   }
 `;
